@@ -1,0 +1,12 @@
+.bgimg{
+    background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)),
+    url('./Netflix/components/Banner/Netflix\ img.jpg');
+    background-repeat: no-repeat !important;
+    background-size: cover;
+    height:112vh;
+    background-position: center;
+    /* max-width:100%; */
+    
+  
+  
+  }

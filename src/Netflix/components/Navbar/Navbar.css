@@ -1,7 +1,13 @@
-.netflix-logo{
-    height: 138px;
-    width: 195px;
-    overflow-x: hidden;
-    margin-top: -22px;
-    margin-left: 25px;
+.navbar-brand{
+  color: rgb(229,9,20);
+  font-size: xx-large;
+  font-weight: 600;
 }
+
+@media (max-width:330px){
+  .navbar-brand{
+    font-size: larger;
+  }
+}
+
+
