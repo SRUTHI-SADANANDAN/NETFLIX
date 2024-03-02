@@ -15,6 +15,42 @@
         font-weight: 700;
         
     }
+    .enjoy{
+      text-align: center;
+      margin-top: -90px;
+      font-size: 2rem;
+      
+     }
+     .para-content{
+      /* text-align: center; */
+      margin-top: 10px;
+      font-size:18px;
+      margin-left: 100px;
+      /* text-indent: -10px; */
+      font-weight: 500;
+     }
+     .download{
+      text-align: center;
+      font-size: 2rem;
+      margin-top: -300px;
+     }
+     .mobile{
+      margin-top: -80px;
+      width: 100%;
+      margin-left: 30px;
+     }
+     .watch{
+      text-align: center;
+      margin-top: -80px;
+      font-size: 2rem;
+     }
+     .para-stream{
+      margin-top: 10px;
+      font-size:18px;
+      text-indent: -10px;
+      font-weight: 500;
+      /* text-align: center; */
+     }
 }
 @media screen and (min-width: 606px) {
     p {
@@ -28,6 +64,11 @@
       font-size: 0.9em;
       font-weight: 400;
     }
+    .line{
+      width: 100%;
+      border-bottom: 8px solid rgba(255, 255, 255, 0.1);
+      margin-top: 50px;
+   }
   }
  .butn1{
     background: rgb(193, 17, 25);

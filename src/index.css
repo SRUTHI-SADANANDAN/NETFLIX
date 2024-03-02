@@ -8,10 +8,14 @@ body {
   -moz-osx-font-smoothing: grayscale;
   background-color: black;
  display: block;
+ text-align: center;
 
 }
 @media screen and (max-width:600px) {
   body{
+    margin: 0;
+    padding:0;
+
   }
   
 }

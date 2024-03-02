@@ -2,7 +2,7 @@ import React from 'react'
 import './Footer.css'
 function Footer() {
   return (
-    <div className='container'style={{marginTop:40, color: "rgba(255,255,255,0.7)", }}>
+    <div className='container question' style={{marginTop:40, color: "rgba(255,255,255,0.7)", }}>
       Questions? Call 
       <a  href='tel:000-800-100-8343'>   000-800-100-8343</a>
      <div>

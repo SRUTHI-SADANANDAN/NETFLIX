@@ -71,8 +71,8 @@ function Banner() {
           <div className="container">
             <div className="row">
               <div className="col-md-6 col-12 content">
-                <h1>Enjoy on your TV</h1>
-                <p style={{textAlign:'left'}}>Watch on smart TVs, PlayStation, Xbox,<br></br> Chromecast, Apple TV, Blu-ray players and more.</p>
+                <h1 className='enjoy'>Enjoy on your TV</h1>
+                <p className='para-content' style={{textAlign:'left'}}>Watch on smart TVs, PlayStation, Xbox,<br></br> Chromecast, Apple TV, Blu-ray players and more.</p>
               </div>
               <div className="col-md-6 col-12 ">
               <video autoPlay loop muted>
@@ -90,8 +90,8 @@ function Banner() {
                 <img className='mobile' src="mobile-0819.jpg" alt="mobile" />
               </div>
               <div className="col-md-6 col-12 content">
-              <h1>Download your<br></br> shows to watch<br></br> offline</h1>
-                <p style={{textAlign:'left'}}>Save your favourites easily and always have something to watch.</p>
+              <h1 className='download'>Download your<br></br> shows to watch<br></br> offline</h1>
+                <p className='para-content' style={{textAlign:'left'}}>Save your favourites easily and always have something to watch.</p>
               </div>
             </div>
           </div>
@@ -101,8 +101,8 @@ function Banner() {
       <div className="container">
             <div className="row">
               <div className="col-md-6 col-12 content">
-                <h1>Watch everywhere</h1>
-                <p style={{textAlign:'left'}}>Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.</p>
+                <h1 className='watch'>Watch everywhere</h1>
+                <p  className="para-content"  style={{textAlign:'left'}}>Stream unlimited movies and TV shows on your phone, tablet, laptop, and TV.</p>
               </div>
               <div className="col-md-6 col-12">
                 <img className='img2' src="netflix-3.webp" alt="" style={{width:600}} />
@@ -118,8 +118,8 @@ function Banner() {
                 <img className='mobile' src="child.png" alt="mobile" />
               </div>
               <div className="col-md-6 col-12 content">
-              <h1>Create profiles for kids</h1>
-                <p style={{textAlign:'left'}}>Send children on adventures with their <br></br> favourite characters in a space made just for<br></br> them—free with your membership.</p>
+              <h1 className='download'>Create profiles for kids</h1>
+                <p className="para-content"  style={{textAlign:'left'}}>Send children on adventures with their <br></br> favourite characters in a space made just for<br></br> them—free with your membership.</p>
               </div>
             </div>
           </div>
